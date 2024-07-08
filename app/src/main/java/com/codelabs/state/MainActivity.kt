@@ -26,3 +26,5 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
+//Yes this is crazy
