@@ -12,4 +12,5 @@
   -->
 <resources>
     <string name="app_name">StateCodelab</string>
+    <string name="title_activity_new_menu">NewMenu</string>
 </resources>
